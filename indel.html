@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Cyber Awareness Quiz</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root {
+      --bg: #0d1117;
+      --card: #161b22;
+      --text: #e6edf3;
+      --muted: #9da7b3;
+      --accent: #2ea043;
+      --accent-2: #1f6feb;
+      --danger: #f85149;
+      --warn: #d29922;
+      --radius: 14px;
+    }
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0; padding: 0;
+      background: var(--bg); color: var(--text);
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+      line-height: 1.35;
+    }
+    .wrap {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 18px 14px 36px;
+    }
+    .card {
+      font-family: 'montserrat', sans-serif;
+    font-size: 25px;
+    text-align : center;
+    font-weight: bold;
+    border-radius: 12px; border: 1px solid #30363d;
+     background: #21262d; color: var(--text);
+
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+
+    padding: 15px;
+    
+    }
+    h2, h3 { margin: 0 0 12px; }
+    
+    h2 { font-size: 1.35rem; color: var(--muted); font-weight: 600; }
+    p { margin: 8px 0; font-size: 1.05rem; }
+    .grid {
+      display: grid; gap: 12px;
+      grid-template-columns: repeat(1, minmax(0,1fr));
+    }
+    @media (min-width: 540px) {
+      .grid-3 { grid-template-columns: repeat(3, minmax(0,1fr)); }
+    }
+    .btn {
+      padding: 14px 16px;
+      font-size: 1.05rem; font-weight: 700;
+      border-radius: 12px; border: 1px solid #fffff;
+      background: #21262d; color: var(--text);
+      cursor: pointer; text-align: center;
+      transition: transform .06s ease, background .5s ease, border-color .5s ease;
+      user-select: none;
+    }
+    .btn:hover { background: #ffffff; }
+    .btn:active { transform: scale(.98); }
+    .btn.primary { background: var(--accent-2); border-color: #ffffff; }
+    .btn.good { background: var(--accent); border-color: #ffffff; }
+    .btn.bad { background: #2b1b1d; border-color: #5b1f23; color: #ffb3b7; }
+    .btn.ghost { background: transparent; border-color: #fffff; }
+    .btn[disabled] { opacity: .6; cursor: not-allowed; }
+    .row { display: flex; align-items: center; gap: 12px; }
+    .spacer { flex: 1; }
+    .muted { color: var(--muted); font-size: .98rem; }
+    .pill {
+      padding: 6px 10px; border-radius: 999px;
+      background: #ffffff; color: var(--muted);
+      border: 1px solid #ffffff; font-weight: 700; font-size: .95rem;
+    }
+    .q {
+      font-size: 1.25rem; font-weight: 800;
+      margin: 10px 0 14px;
+    }
+    .options { display: grid; gap: 10px; }
+    .opt {
+      padding: 12px 14px;
+      background: #000000; border: 2px solid #6c5ce7;
+      border-radius: 15px; cursor: pointer; text-align: left;
+      font-weight: 600; font-size: 1.05rem;
+    }
+    .opt.correct { border-color: #388b48; background: #152a1a; }
+    .opt.wrong   { border-color: #6c1e23; background: #2a1719; }
+    .kpi {
+      display: grid; grid-template-columns: 1fr auto auto; gap: 10px; align-items: center;
+      margin: 8px 0 14px;
+    }
+    .progress {
+      height: 10px; border-radius: 999px; background: #222833; border: 2px solid #ffffff; overflow: hidden;
+    }
+    .bar { height: 100%; width: 0%; background: var(--accent-2); transition: width .25s ease; }
+    .timer {
+      padding: 6px 10px; border-radius: 10px; border: 1px solid #30363d; background: #1c2230;
+      font-weight: 800; letter-spacing: .5px;
+    }
+    .tag { padding: 6px 10px; border-radius: 9px; border: 1px solid #30363d; background: #1a232a; }
+    .hidden { display: none !important; }
+    .footnote { margin-top: 16px; color: var(--muted); font-size: .95rem; }
+    .dev { margin-top: 22px; border-top: 1px dashed #30363d; padding-top: 12px; }
+    .kbd { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; background: #0b1220; border: 1px solid #12203a; padding: 2px 6px; border-radius: 6px; font-size: .95rem; }
+    .h1 {
+    
+}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card" id="screen-home">
+      <h1>Cyber Awareness Quiz</h1>
+      <p class="muted">Choose a difficulty. You’ll get <strong>25 random questions</strong>. For each correct answer you will get <strong>1 Point</strong>. You have <strong>15 seconds</strong> per question.</p>
+      <div class="grid grid-3" style="margin-top: 12px;">
+        <button class="btn" data-level="easy">Easy</button>
+        <button class="btn" data-level="medium">Medium</button>
+        <button class="btn" data-level="hard">Hard</button>
+      </div>
+
+     <div class="dev">
+        <div class="row">
+          
+          <span class="spacer"></span>
+         
+        </div>
+        
+        <div id="test-output" class="muted"></div>
+      </div>
+    </div>
+
+    <div class="card hidden" id="screen-quiz">
+      <div class="row">
+        <div class="pill" id="pill-level">Level: —</div>
+        <span class="spacer"></span>
+        <div class="tag">Score: <span id="score">0</span></div>
+      </div>
+
+      <div class="kpi">
+        <div class="progress"><div id="bar" class="bar"></div></div>
+        <div class="tag">Q <span id="qnum">1</span>/25</div>
+        <div class="timer" id="timer">15s</div>
+      </div>
+
+      <div class="q" id="question">Question text…</div>
+      <div class="options" id="options"></div>
+
+      <div class="row" style="margin-top:12px">
+        <button id="btn-next" class="btn primary" disabled>Next</button>
+        <span class="spacer"></span>
+        <button id="btn-quit" class="btn bad">Quit</button>
+      </div>
+    </div>
+
+    <div class="card hidden" id="screen-result">
+      <h2>Result</h2>
+      <p class="q">You scored <strong><span id="final-score">0</span>/25</strong></p>
+      <p class="muted" id="final-msg"></p>
+      <div class="row" style="margin-top:12px">
+        <button id="btn-again" class="btn good">Play Again</button>
+        <span class="spacer"></span>
+        <button id="btn-home" class="btn ghost">Home</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+  
+let questions = {};
+let currentLevel = "";
+let currentIndex = 0;
+let score = 0;
+let timer;
+let timeLeft = 15;
+
+// Load questions.json from GitHub
+async function loadQuestions() {
+  try {
+    let res = await fetch("https://raw.githubusercontent.com/ArunHax/Quiz-App/main/questions.json");
+    questions = await res.json();
+    console.log("✅ Questions loaded:", questions);
+  } catch (e) {
+    console.error("❌ Failed to load questions:", e);
+    alert("Could not load questions. Check your internet!");
+  }
+}
+
+// Start quiz for chosen level
+function startQuiz(level) {
+  if (!questions[level]) {
+    alert("Questions not loaded yet. Please try again.");
+    return;
+  }
+
+  currentLevel = level;
+  currentIndex = 0;
+  score = 0;
+  document.getElementById("pill-level").innerText = "Level: " + level.charAt(0).toUpperCase() + level.slice(1);
+
+  // 🔀 Shuffle the questions of this level
+  questions[currentLevel] = shuffleArray([...questions[currentLevel]]);
+
+  // Switch screens
+  document.getElementById("screen-home").classList.add("hidden");
+  document.getElementById("screen-result").classList.add("hidden");
+  document.getElementById("screen-quiz").classList.remove("hidden");
+
+  showQuestion();
+}
+
+
+// Show current question
+function showQuestion() {
+  clearInterval(timer);
+  timeLeft = 15;
+  updateTimer();
+  timer = setInterval(updateTimer, 1000);
+
+  let qList = questions[currentLevel];
+  if (currentIndex >= qList.length || currentIndex >= 25) {
+    endQuiz();
+    return;
+  }
+
+  let q = qList[currentIndex];
+
+  // Set question text
+  document.getElementById("question").innerText = q.question;
+
+  // Set options
+  let optionsDiv = document.getElementById("options");
+  optionsDiv.innerHTML = "";
+  q.options.forEach((opt, i) => {
+    let btn = document.createElement("div");
+    btn.className = "opt";
+    btn.innerText = opt;
+    btn.onclick = () => {
+      clearInterval(timer);
+      checkAnswer(i, q.answer, btn);
+    };
+    optionsDiv.appendChild(btn);
+  });
+
+  // Update score and progress
+  document.getElementById("qnum").innerText = currentIndex + 1;
+  document.getElementById("score").innerText = score;
+  document.getElementById("bar").style.width = ((currentIndex / 25) * 100) + "%";
+
+  document.getElementById("btn-next").disabled = true;
+}
+
+// Timer countdown
+function updateTimer() {
+  document.getElementById("timer").innerText = timeLeft + "s";
+  timeLeft--;
+  if (timeLeft < 0) {
+    clearInterval(timer);
+    nextQuestion();
+  }
+}
+
+// Check answer
+function checkAnswer(selected, correct, btn) {
+  let optionButtons = document.querySelectorAll(".opt");
+  optionButtons.forEach((b, i) => {
+    if (i === correct) b.classList.add("correct");
+    if (i === selected && selected !== correct) b.classList.add("wrong");
+    b.onclick = null; // disable clicking again
+  });
+
+  if (selected === correct) {
+    score++;
+    document.getElementById("score").innerText = score;
+  }
+
+  document.getElementById("btn-next").disabled = false;
+}
+
+// Next question
+function nextQuestion() {
+  currentIndex++;
+  showQuestion();
+}
+
+// End quiz
+function endQuiz() {
+  clearInterval(timer);
+  document.getElementById("screen-quiz").classList.add("hidden");
+  document.getElementById("screen-result").classList.remove("hidden");
+
+  document.getElementById("final-score").innerText = score;
+  let msg = "Good try!";
+  if (score > 20) msg = "🔥 Excellent!";
+  else if (score > 10) msg = "👍 Nice work!";
+  document.getElementById("final-msg").innerText = msg;
+}
+
+// Event listeners
+document.querySelectorAll("[data-level]").forEach(btn => {
+  btn.addEventListener("click", () => {
+    startQuiz(btn.getAttribute("data-level"));
+  });
+});
+
+document.getElementById("btn-next").addEventListener("click", nextQuestion);
+document.getElementById("btn-quit").addEventListener("click", endQuiz);
+document.getElementById("btn-again").addEventListener("click", () => startQuiz(currentLevel));
+document.getElementById("btn-home").addEventListener("click", () => {
+  document.getElementById("screen-result").classList.add("hidden");
+  document.getElementById("screen-home").classList.remove("hidden");
+});
+
+// Load questions when page starts
+window.onload = loadQuestions;
+function shuffleArray(array) {
+  return array.sort(() => Math.random() - 0.5);
+}
+
+</script>
+
+</body>
+</html>
