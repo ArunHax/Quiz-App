@@ -1,0 +1,68 @@
+{
+  "easy": [
+    {
+      "question": "Anagha Have Brain? ",
+      "options": [
+        "Yes",
+        "No",
+        "yesssss",
+        "cheriya orennam"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Anagha is? ",
+      "options": ["shotta", "shonna", "vazha", "paavam koch"],
+      "answer": 0
+    },
+    {
+      "question": "Which of these is a search engine?",
+      "options": ["Chrome", "Google", "Windows", "Facebook"],
+      "answer": 1
+    }
+  ],
+  "medium": [
+    {
+      "question": "What does CSS stand for?",
+      "options": [
+        "Creative Style System",
+        "Cascading Style Sheets",
+        "Colorful Style Syntax",
+        "Coding Style Standard"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which property in CSS is used to change text color?",
+      "options": ["font-color", "text-color", "color", "background-color"],
+      "answer": 2
+    },
+    {
+      "question": "Which HTML tag is used to link JavaScript?",
+      "options": ["<js>", "<script>", "<javascript>", "<link>"],
+      "answer": 1
+    }
+  ],
+  "hard": [
+    {
+      "question": "What does SQL stand for?",
+      "options": [
+        "Structured Query Language",
+        "Stylish Question Language",
+        "Statement Question Logic",
+        "System Query Link"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which protocol is used to securely browse websites?",
+      "options": ["HTTP", "FTP", "SMTP", "HTTPS"],
+      "answer": 3
+    },
+    {
+      "question": "Which company developed the Python programming language?",
+      "options": ["Google", "Facebook", "Python Software Foundation", "Microsoft"],
+      "answer": 2
+    }
+  ]
+}
