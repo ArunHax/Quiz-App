@@ -1,68 +1,2258 @@
 {
   "easy": [
     {
-      "question": "Anagha Have Brain? ",
+      "question": "What is the safest way to create a strong password?",
       "options": [
-        "Yes",
-        "No",
-        "yesssss",
-        "cheriya orennam"
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
       ],
-      "answer": 1
+      "answer": 2
     },
     {
-      "question": "Anagha is? ",
-      "options": ["shotta", "shonna", "vazha", "paavam koch"],
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
       "answer": 0
     },
     {
-      "question": "Which of these is a search engine?",
-      "options": ["Chrome", "Google", "Windows", "Facebook"],
-      "answer": 1
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the safest way to create a strong password?",
+      "options": [
+        "Use your name",
+        "Use 123456",
+        "Use random letters, numbers & symbols",
+        "Use only birthdate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device do we use to access the internet at home?",
+      "options": [
+        "Router",
+        "Television",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0
     }
   ],
   "medium": [
     {
-      "question": "What does CSS stand for?",
+      "question": "What does 'https://' mean in a website link?",
       "options": [
-        "Creative Style System",
-        "Cascading Style Sheets",
-        "Colorful Style Syntax",
-        "Coding Style Standard"
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
       ],
       "answer": 1
     },
     {
-      "question": "Which property in CSS is used to change text color?",
-      "options": ["font-color", "text-color", "color", "background-color"],
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
       "answer": 2
     },
     {
-      "question": "Which HTML tag is used to link JavaScript?",
-      "options": ["<js>", "<script>", "<javascript>", "<link>"],
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
       "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'https://' mean in a website link?",
+      "options": [
+        "Website is fake",
+        "Website is secure",
+        "Website is slow",
+        "Website has ads"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which one is NOT an antivirus software?",
+      "options": [
+        "Avast",
+        "McAfee",
+        "Photoshop",
+        "Kaspersky"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "Block viruses",
+        "Stop spam",
+        "Filter network traffic",
+        "Speed up internet"
+      ],
+      "answer": 2
     }
   ],
   "hard": [
     {
-      "question": "What does SQL stand for?",
+      "question": "Which type of attack tricks users by creating a fake website?",
       "options": [
-        "Structured Query Language",
-        "Stylish Question Language",
-        "Statement Question Logic",
-        "System Query Link"
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
       ],
       "answer": 0
     },
     {
-      "question": "Which protocol is used to securely browse websites?",
-      "options": ["HTTP", "FTP", "SMTP", "HTTPS"],
-      "answer": 3
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
     },
     {
-      "question": "Which company developed the Python programming language?",
-      "options": ["Google", "Facebook", "Python Software Foundation", "Microsoft"],
-      "answer": 2
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of attack tricks users by creating a fake website?",
+      "options": [
+        "Phishing",
+        "DDoS",
+        "SQL Injection",
+        "Brute Force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which encryption is stronger?",
+      "options": [
+        "AES",
+        "ROT13",
+        "Caesar Cipher",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SQL Injection target?",
+      "options": [
+        "Databases",
+        "Emails",
+        "Images",
+        "WiFi"
+      ],
+      "answer": 0
     }
   ]
-}
+    }
