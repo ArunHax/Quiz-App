@@ -277,6 +277,118 @@ function checkAnswer(selected, correct, btn) {
     score++;
     document.getElementById("score").innerText = score;
   }
+<script>
+let questions = {};
+let currentLevel = "";
+let currentIndex = 0;
+let score = 0;
+let timer;
+let timeLeft = 15;
+let selectedQuestions = []; // store 25 random questions
+
+// Load questions.json from GitHub
+async function loadQuestions() {
+  try {
+    let res = await fetch("https://raw.githubusercontent.com/ArunHax/Quiz-App/main/questions.json");
+    questions = await res.json();
+    console.log("✅ Questions loaded:", questions);
+  } catch (e) {
+    console.error("❌ Failed to load questions:", e);
+    alert("Could not load questions. Check your internet!");
+  }
+}
+
+// Shuffle helper
+function shuffle(array) {
+  return array.sort(() => Math.random() - 0.5);
+}
+
+// Start quiz for chosen level
+function startQuiz(level) {
+  if (!questions[level]) {
+    alert("Questions not loaded yet. Please try again.");
+    return;
+  }
+
+  currentLevel = level;
+  currentIndex = 0;
+  score = 0;
+
+  // 🎯 Shuffle and pick 25 random questions
+  selectedQuestions = shuffle([...questions[level]]).slice(0, 25);
+
+  document.getElementById("pill-level").innerText =
+    "Level: " + level.charAt(0).toUpperCase() + level.slice(1);
+
+  // Switch screens
+  document.getElementById("screen-home").classList.add("hidden");
+  document.getElementById("screen-result").classList.add("hidden");
+  document.getElementById("screen-quiz").classList.remove("hidden");
+
+  showQuestion();
+}
+
+// Show current question
+function showQuestion() {
+  clearInterval(timer);
+  timeLeft = 15;
+  updateTimer();
+  timer = setInterval(updateTimer, 1000);
+
+  if (currentIndex >= selectedQuestions.length) {
+    endQuiz();
+    return;
+  }
+
+  let q = selectedQuestions[currentIndex];
+
+  // Set question text
+  document.getElementById("question").innerText = q.question;
+
+  // Set options
+  let optionsDiv = document.getElementById("options");
+  optionsDiv.innerHTML = "";
+  q.options.forEach((opt, i) => {
+    let btn = document.createElement("div");
+    btn.className = "opt";
+    btn.innerText = opt;
+    btn.onclick = () => {
+      clearInterval(timer);
+      checkAnswer(i, q.answer, btn);
+    };
+    optionsDiv.appendChild(btn);
+  });
+
+  // Update score and progress
+  document.getElementById("score").innerText = score;
+  document.getElementById("bar").style.width = ((currentIndex / 25) * 100) + "%";
+
+  document.getElementById("btn-next").disabled = true;
+}
+
+// Timer countdown
+function updateTimer() {
+  document.getElementById("timer").innerText = timeLeft + "s";
+  timeLeft--;
+  if (timeLeft < 0) {
+    clearInterval(timer);
+    nextQuestion();
+  }
+}
+
+// Check answer
+function checkAnswer(selected, correct, btn) {
+  let optionButtons = document.querySelectorAll(".opt");
+  optionButtons.forEach((b, i) => {
+    if (i === correct) b.classList.add("correct");
+    if (i === selected && selected !== correct) b.classList.add("wrong");
+    b.onclick = null;
+  });
+
+  if (selected === correct) {
+    score++;
+    document.getElementById("score").innerText = score;
+  }
 
   document.getElementById("btn-next").disabled = false;
 }
@@ -317,11 +429,8 @@ document.getElementById("btn-home").addEventListener("click", () => {
 
 // Load questions when page starts
 window.onload = loadQuestions;
-function shuffleArray(array) {
-  return array.sort(() => Math.random() - 0.5);
-}
-
 </script>
+
 
 </body>
 </html>
