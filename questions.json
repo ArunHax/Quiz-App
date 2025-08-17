@@ -1,2256 +1,1996 @@
 {
   "easy": [
     {
-      "question": "What is the safest way to create a strong password?",
+      "question": "What does 'phishing' refer to?",
       "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
+        "A type of fishing",
+        "A method to steal personal information",
+        "A computer game", 
+        "A social media trend"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of these is the strongest password?",
+      "options": [
+        "password123",
+        "P@ssw0rd!2023",
+        "12345678",
+        "qwerty"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the main purpose of antivirus software?",
+      "options": [
+        "To speed up your computer",
+        "To protect against malware",
+        "To organize files",
+        "To create backups"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What should you do with an email from an unknown sender?",
+      "options": [
+        "Open it immediately",
+        "Delete it without opening",
+        "Forward it to colleagues",
+        "Reply asking who they are"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Two-factor authentication helps protect accounts by:",
+      "options": [
+        "Requiring two passwords",
+        "Using two verification methods",
+        "Changing your password monthly",
+        "Sharing your login with a friend"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A suspicious email asking for your password is an example of:",
+      "options": [
+        "Spam",
+        "Phishing",
+        "A system alert",
+        "A newsletter"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does HTTPS in a website URL indicate?",
+      "options": [
+        "The site has videos",
+        "The connection is secure",
+        "The site is government-run",
+        "The site uses cookies"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a VPN primarily used for?",
+      "options": [
+        "Watching region-locked videos",
+        "Securing internet connections",
+        "Increasing download speeds",
+        "Bypassing parental controls"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "If you accidentally download malware, you should first:",
+      "options": [
+        "Restart your computer",
+        "Run antivirus software",
+        "Delete the file",
+        "Ignore it"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which social media practice is most risky?",
+      "options": [
+        "Using privacy settings",
+        "Posting vacation photos while away",
+        "Having a profile picture",
+        "Following companies"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What's the safest way to share sensitive documents?",
+      "options": [
+        "Email attachment",
+        "Encrypted cloud storage",
+        "Public file sharing site",
+        "Social media message"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the padlock icon in your browser mean?",
+      "options": [
+        "The site is bookmarked",
+        "The connection is secure",
+        "You've visited before",
+        "The site has videos"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What should you do if a website looks suspicious?",
+      "options": [
+        "Check the URL carefully",
+        "Enter test information",
+        "Take a screenshot",
+        "Ignore warnings"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Software updates often include:",
+      "options": [
+        "Just new features",
+        "Security patches",
+        "Slower performance",
+        "Fewer options"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What's the best way to create secure passwords?",
+      "options": [
+        "Use personal information",
+        "Use a password manager",
+        "Repeat the same password",
+        "Write them down"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Public Wi-Fi networks are risky because:",
+      "options": [
+        "They're slow",
+        "Others may see your data",
+        "They cost money",
+        "They disconnect often"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which is NOT a common hacker tactic?",
+      "options": [
+        "Phishing emails",
+        "Ransomware attacks",
+        "Software updates",
+        "Fake websites"
       ],
       "answer": 2
     },
     {
-      "question": "Which of these is a web browser?",
+      "question": "Multi-factor authentication typically uses:",
       "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
+        "Multiple passwords",
+        "Something you know and have",
+        "Different usernames",
+        "Secret handshakes"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "Which device do we use to access the internet at home?",
+      "question": "A company's privacy policy explains:",
       "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
+        "Their office locations",
+        "How they protect your data",
+        "Their stock price",
+        "Employee benefits"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "What is the safest way to create a strong password?",
+      "question": "What should you do before selling an old computer?",
       "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
+        "Just delete files",
+        "Perform a factory reset",
+        "Remove the battery",
+        "Throw it away"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
-      "question": "Which of these is a web browser?",
+      "question": "Which of these is most important for online security?",
       "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
+        "A fast processor",
+        "Regular software updates",
+        "Large hard drive",
+        "Expensive monitor"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "Which device do we use to access the internet at home?",
+      "question": "What does a firewall do?",
       "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
+        "Protects against fires",
+        "Blocks unauthorized access",
+        "Cleans your keyboard",
+        "Speeds up Wi-Fi"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "What is the safest way to create a strong password?",
+      "question": "If you receive suspicious links via text message, you should:",
       "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
+        "Forward them to friends",
+        "Ignore and delete them",
+        "Respond with 'STOP'",
+        "Click to see what happens"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
-      "question": "Which of these is a web browser?",
+      "question": "What's the safest approach to social media privacy?",
       "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
+        "Accept all friend requests",
+        "Share your location publicly",
+        "Review privacy settings regularly",
+        "Post everything publicly"
       ],
       "answer": 2
     },
     {
-      "question": "Which of these is a web browser?",
+      "question": "How often should you change passwords?",
       "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
+        "Never",
+        "Every 6-12 months",
+        "Only when compromised",
+        "Daily"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What's the main danger of clicking pop-up ads?",
+      "options": [
+        "They're annoying",
+        "They may install malware",
+        "They play loud sounds",
+        "They're hard to close"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What should you do after a data breach alert?",
+      "options": [
+        "Ignore it",
+        "Change affected passwords",
+        "Post about it online",
+        "Buy new devices"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which best describes malware?",
+      "options": [
+        "Helpful software",
+        "Damaging programs",
+        "Outdated apps",
+        "Large files"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Smartphone security best includes:",
+      "options": [
+        "No passcode",
+        "Biometric login",
+        "Sharing your phone freely",
+        "Automatic Wi-Fi connections"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Password managers help by:",
+      "options": [
+        "Creating weak passwords",
+        "Remembering complex passwords",
+        "Sharing passwords publicly",
+        "Forgetting your passwords"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What's unsafe about public USB charging stations?",
+      "options": [
+        "They're slow",
+        "They may install malware",
+        "They cost money",
+        "They're hard to find"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Encryption protects data by:",
+      "options": [
+        "Making it unreadable to others",
+        "Deleting it automatically",
+        "Making files larger",
+        "Requiring passwords"
       ],
       "answer": 0
     },
     {
-      "question": "Which device do we use to access the internet at home?",
+      "question": "Why shouldn't you use the same password everywhere?",
       "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
+        "It's hard to remember",
+        "One breach compromises all accounts",
+        "Some sites don't allow it",
+        "It looks unprofessional"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What's the safest response to tech support calls?",
+      "options": [
+        "Give remote access immediately",
+        "Hang up and call official support",
+        "Provide credit card details",
+        "Follow all instructions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Social engineering attacks rely on:",
+      "options": [
+        "Software flaws",
+        "Human trust",
+        "Fast computers",
+        "Cloud storage"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Digital certificates verify a website's:",
+      "options": [
+        "Popularity",
+        "Identity",
+        "Loading speed",
+        "Content quality"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Identity theft occurs when someone:",
+      "options": [
+        "Shares your social media post",
+        "Uses your personal information",
+        "Comments on your photo",
+        "Follows you online"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Backing up data protects against:",
+      "options": [
+        "Slow performance",
+        "Data loss",
+        "High prices",
+        "Social media"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Regular OS updates help prevent:",
+      "options": [
+        "Hardware failures",
+        "Security breaches",
+        "Internet disconnections",
+        "App updates"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Using work devices for personal activities may:",
+      "options": [
+        "Improve productivity",
+        "Compromise security",
+        "Increase battery life",
+        "Slow updates"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "An unexpected package delivery notice may be:",
+      "options": [
+        "A gift",
+        "A phishing attempt",
+        "A mistake",
+        "A marketing survey"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Biometric authentication uses:",
+      "options": [
+        "Passwords",
+        "Physical characteristics",
+        "Security questions",
+        "Email verification"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Credential stuffing attacks exploit:",
+      "options": [
+        "Reused passwords",
+        "Weak WiFi signals",
+        "Old devices",
+        "Small screens"
       ],
       "answer": 0
     },
     {
-      "question": "What is the safest way to create a strong password?",
+      "question": "Security keys provide stronger protection than:",
       "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
+        "Firewalls",
+        "SMS codes",
+        "Antivirus",
+        "Pop-up blockers"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
-      "question": "Which of these is a web browser?",
+      "question": "Dark web monitoring helps detect:",
       "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
+        "Website changes",
+        "Stolen credentials",
+        "Slow loading times",
+        "New social media"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Zero-click exploits can infect devices:",
+      "options": [
+        "Without clicks",
+        "Via Bluetooth",
+        "Only in sleep mode",
+        "When charging"
       ],
       "answer": 0
     },
     {
-      "question": "Which device do we use to access the internet at home?",
+      "question": "SIM swapping attacks target your:",
       "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
+        "Bank account",
+        "Phone number",
+        "Email password",
+        "Social media"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "What is the safest way to create a strong password?",
+      "question": "A hacker's fake customer service account is:",
       "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
+        "Helpful",
+        "Social engineering",
+        "Authorized",
+        "Temporary"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
-      "question": "Which of these is a web browser?",
+      "question": "Security awareness training helps prevent:",
       "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
+        "Hardware issues",
+        "Human errors",
+        "Software bugs",
+        "Internet outages"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "Which device do we use to access the internet at home?",
+      "question": "What should you check before entering credentials?",
       "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
+        "Website design",
+        "URL spelling",
+        "Font size",
+        "Mobile responsiveness"
       ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of these is a web browser?",
-      "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of these is a web browser?",
-      "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of these is a web browser?",
-      "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of these is a web browser?",
-      "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of these is a web browser?",
-      "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of these is a web browser?",
-      "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of these is a web browser?",
-      "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of these is a web browser?",
-      "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of these is a web browser?",
-      "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of these is a web browser?",
-      "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of these is a web browser?",
-      "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of these is a web browser?",
-      "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of these is a web browser?",
-      "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of these is a web browser?",
-      "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of these is a web browser?",
-      "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of these is a web browser?",
-      "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of these is a web browser?",
-      "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of these is a web browser?",
-      "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the safest way to create a strong password?",
-      "options": [
-        "Use your name",
-        "Use 123456",
-        "Use random letters, numbers & symbols",
-        "Use only birthdate"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of these is a web browser?",
-      "options": [
-        "Google Chrome",
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which device do we use to access the internet at home?",
-      "options": [
-        "Router",
-        "Television",
-        "Printer",
-        "Scanner"
-      ],
-      "answer": 0
+      "answer": 1
     }
-  ],
+  ], 
   "medium": [
     {
-      "question": "What does 'https://' mean in a website link?",
+      "question": "What is the primary risk of connecting to an unsecured public Wi-Fi network?",
       "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "Slower internet speed",
+        "Man-in-the-middle attacks",
+        "Increased battery usage",
+        "Limited access to websites"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "Which type of attack involves encrypting files and demanding payment for decryption?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the main purpose of a firewall?",
-      "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "Phishing",
+        "Ransomware",
+        "Spyware",
+        "Adware"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "What security measure prevents shoulder surfing attacks?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the main purpose of a firewall?",
-      "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "Firewalls",
+        "Privacy screens",
+        "VPNs",
+        "Antivirus software"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "Which protocol provides secure communication over a computer network?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
+        "HTTP",
+        "FTP",
+        "HTTPS",
+        "SMTP"
       ],
       "answer": 2
     },
     {
-      "question": "What is the main purpose of a firewall?",
+      "question": "What does a DNS spoofing attack accomplish?",
       "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "Slows down internet speed",
+        "Redirects users to fake websites",
+        "Deletes browser cookies",
+        "Changes monitor resolution"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "Which of these is a characteristic of advanced persistent threats (APTs)?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the main purpose of a firewall?",
-      "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "Quick, disruptive attacks",
+        "Long-term covert access",
+        "Always use ransomware",
+        "Only target individuals"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "What is the main purpose of a honeypot in cybersecurity?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
+        "To attract and study hackers",
+        "To speed up network performance",
+        "To store encrypted passwords",
+        "To create backup files"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
-      "question": "What is the main purpose of a firewall?",
+      "question": "Which security framework is commonly used for payment card data?",
       "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "HIPAA",
+        "PCI DSS",
+        "GDPR",
+        "ISO 27001"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "What does a zero-day vulnerability refer to?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
+        "A vulnerability with no patch available",
+        "A hacker's first attack",
+        "A bug that appears at midnight",
+        "A problem fixed immediately"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which authentication factor is considered 'something you are'?",
+      "options": [
+        "Password",
+        "Security token",
+        "Fingerprint",
+        "PIN"
       ],
       "answer": 2
     },
     {
-      "question": "What is the main purpose of a firewall?",
+      "question": "What is the main risk of BYOD (Bring Your Own Device) policies?",
       "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "Higher hardware costs",
+        "Data leakage from unsecured devices",
+        "Slower internet speeds",
+        "Incompatible software versions"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "Which type of encryption uses the same key for encryption and decryption?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
+        "Asymmetric",
+        "Public-key",
+        "Symmetric",
+        "Hashing"
       ],
       "answer": 2
     },
     {
-      "question": "What is the main purpose of a firewall?",
+      "question": "What is the purpose of salting in password storage?",
       "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "To make passwords taste better",
+        "To prevent rainbow table attacks",
+        "To reduce password complexity",
+        "To speed up authentication"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "Which security control would best prevent SQL injection attacks?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the main purpose of a firewall?",
-      "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "Firewall",
+        "Input validation",
+        "VPN",
+        "Antivirus"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "What is the primary purpose of penetration testing?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the main purpose of a firewall?",
-      "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "To hack into systems illegally",
+        "To identify security vulnerabilities",
+        "To improve internet speed",
+        "To recover deleted files"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "Which attack intercepts communication between two parties?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the main purpose of a firewall?",
-      "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "Phishing",
+        "MITM (Man-in-the-Middle)",
+        "DDoS",
+        "Brute force"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "What is the primary security risk of IoT devices?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the main purpose of a firewall?",
-      "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "High energy consumption",
+        "Default credentials and weak security",
+        "Incompatible with modern networks",
+        "Expensive to maintain"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "Which protocol is vulnerable to POODLE attack?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
+        "SSL 3.0",
+        "TLS 1.3",
+        "HTTPS",
+        "SSH"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
-      "question": "What is the main purpose of a firewall?",
+      "question": "What security concept ensures users only have necessary access?",
       "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
+        "Least privilege",
+        "Zero trust",
+        "Defense in depth",
+        "Fail-safe"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
-      "question": "What does 'https://' mean in a website link?",
+      "question": "Which of these is a common indicator of a compromised system?",
       "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "Faster performance",
+        "Unusual network activity",
+        "New software updates",
+        "Increased storage space"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "What does CSRF (Cross-Site Request Forgery) exploit?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
+        "Browser vulnerabilities",
+        "User authentication",
+        "Trusted user sessions",
+        "Network bandwidth"
       ],
       "answer": 2
     },
     {
-      "question": "What is the main purpose of a firewall?",
+      "question": "Which security principle involves multiple defense layers?",
       "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "Least privilege",
+        "Defense in depth",
+        "Fail secure",
+        "Separation of duties"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "What is the main risk of shadow IT?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the main purpose of a firewall?",
-      "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "Higher costs",
+        "Unapproved and unsupported IT systems",
+        "Employee satisfaction",
+        "Better performance"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "Which attack floods a network with ICMP packets?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the main purpose of a firewall?",
-      "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "Phishing",
+        "Smurf attack",
+        "SQL injection",
+        "XSS"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "What does DLP (Data Loss Prevention) software prevent?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the main purpose of a firewall?",
-      "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "Unauthorized data access",
+        "Accidental or intentional data leaks",
+        "Hardware failures",
+        "Slow network speeds"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "Which biometric authentication method is hardest to spoof?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
+        "Fingerprint",
+        "Facial recognition",
+        "Iris scan",
+        "Voice recognition"
       ],
       "answer": 2
     },
     {
-      "question": "What is the main purpose of a firewall?",
+      "question": "What is the primary risk of USB drop attacks?",
       "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "Hardware damage",
+        "Malware installation",
+        "Data corruption",
+        "Battery drain"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "Which encryption algorithm is quantum-resistant?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
+        "RSA",
+        "ECC",
+        "AES",
+        "Lattice-based cryptography"
       ],
-      "answer": 2
+      "answer": 3
     },
     {
-      "question": "What is the main purpose of a firewall?",
+      "question": "What does a canary token help detect?",
       "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "Phishing attempts",
+        "Unauthorized data access",
+        "Network outages",
+        "Hardware failures"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "Which security framework focuses on healthcare data?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the main purpose of a firewall?",
-      "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "PCI DSS",
+        "HIPAA",
+        "GDPR",
+        "SOX"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "What is the main risk of typosquatting domains?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the main purpose of a firewall?",
-      "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "Slower websites",
+        "Phishing and malware distribution",
+        "Copyright infringement",
+        "Higher domain costs"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "Which attack exploits session cookies?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the main purpose of a firewall?",
-      "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "SQL injection",
+        "Session hijacking",
+        "Pharming",
+        "Zero-day"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "What security measure prevents replay attacks?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
+        "Timestamps and nonces",
+        "Stronger passwords",
+        "Larger encryption keys",
+        "Frequent reboots"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which protocol is commonly exploited in ARP spoofing?",
+      "options": [
+        "HTTP",
+        "DNS",
+        "ARP",
+        "SSH"
       ],
       "answer": 2
     },
     {
-      "question": "What is the main purpose of a firewall?",
+      "question": "What is the primary goal of water holing attacks?",
       "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
+        "Compromise frequently visited sites",
+        "Steal water supply data",
+        "Flood networks",
+        "Target infrastructure"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
-      "question": "What does 'https://' mean in a website link?",
+      "question": "Which security practice involves fake data?",
       "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "Honey encryption",
+        "Two-factor authentication",
+        "Network segmentation",
+        "Penetration testing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does spear phishing target specifically?",
+      "options": [
+        "Random users",
+        "Specific individuals/organizations",
+        "Entire countries",
+        "Only government agencies"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "Which authentication protocol is vulnerable to pass-the-hash attacks?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the main purpose of a firewall?",
-      "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "OAuth",
+        "NTLM",
+        "OpenID",
+        "SAML"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "What security concept involves verifying before trusting?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the main purpose of a firewall?",
-      "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What does 'https://' mean in a website link?",
-      "options": [
-        "Website is fake",
-        "Website is secure",
-        "Website is slow",
-        "Website has ads"
+        "Least privilege",
+        "Zero trust",
+        "Defense in depth",
+        "Fail secure"
       ],
       "answer": 1
     },
     {
-      "question": "Which one is NOT an antivirus software?",
+      "question": "Which attack uses electromagnetic radiation from devices?",
       "options": [
-        "Avast",
-        "McAfee",
-        "Photoshop",
-        "Kaspersky"
+        "Phishing",
+        "Tempest",
+        "DDoS",
+        "Side-channel"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the primary risk of third-party cookies?",
+      "options": [
+        "Slower browsing",
+        "Tracking across sites",
+        "Malware infection",
+        "Password theft"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which security control prevents brute force attacks?",
+      "options": [
+        "Account lockouts",
+        "Stronger encryption",
+        "Larger passwords",
+        "Network segmentation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What makes polymorphic malware dangerous?",
+      "options": [
+        "Changes its code to evade detection",
+        "Infects multiple file types",
+        "Spreads very quickly",
+        "Deletes system files"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which security standard applies to EU personal data?",
+      "options": [
+        "PCI DSS",
+        "HIPAA",
+        "GDPR",
+        "FERPA"
       ],
       "answer": 2
     },
     {
-      "question": "What is the main purpose of a firewall?",
+      "question": "What is the primary risk of mobile jailbreaking/rooting?",
       "options": [
-        "Block viruses",
-        "Stop spam",
-        "Filter network traffic",
-        "Speed up internet"
+        "Voided warranty",
+        "Bypassed security controls",
+        "Slower performance",
+        "App incompatibility"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which control prevents XSS (Cross-Site Scripting)?",
+      "options": [
+        "Input sanitization",
+        "Network segmentation",
+        "Password complexity",
+        "Disk encryption"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the main purpose of steganography?",
+      "options": [
+        "Encrypting messages",
+        "Hiding messages within files",
+        "Creating secure channels",
+        "Authenticating users"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which attack sends more data than a system can handle?",
+      "options": [
+        "Phishing",
+        "Buffer overflow",
+        "Man-in-the-middle",
+        "Session hijacking"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What security concept limits user privileges?",
+      "options": [
+        "Least privilege",
+        "Defense in depth",
+        "Zero trust",
+        "Redundancy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which protocol is commonly used for secure email?",
+      "options": [
+        "SMTP",
+        "PGP",
+        "FTP",
+        "HTTP"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the primary risk of keyloggers?",
+      "options": [
+        "Slower typing",
+        "Capturing keystrokes",
+        "Changing keyboard layout",
+        "Disabling keys"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which security practice involves fake networks?",
+      "options": [
+        "Honeypots",
+        "VPNs",
+        "Honeynets",
+        "IDS"
       ],
       "answer": 2
+    },
+    {
+      "question": "What does RBAC (Role-Based Access Control) manage?",
+      "options": [
+        "Network speeds",
+        "User permissions",
+        "Data encryption",
+        "System backups"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which factor is most important in security awareness training?",
+      "options": [
+        "Frequency of training",
+        "Employee engagement",
+        "Length of sessions",
+        "Number of attendees"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What security principle maintains system functionality?",
+      "options": [
+        "Confidentiality",
+        "Integrity",
+        "Availability",
+        "Authenticity"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which technique hides malicious code in legitimate software?",
+      "options": [
+        "Phishing",
+        "Trojan horse",
+        "DDoS",
+        "Brute force"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the main purpose of non-repudiation?",
+      "options": [
+        "Preventing denial of actions",
+        "Encrypting data",
+        "Authenticating users",
+        "Detecting malware"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which cloud security model shares responsibility between provider and client?",
+      "options": [
+        "IaaS",
+        "PaaS",
+        "SaaS",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What security measure prevents tailgating?",
+      "options": [
+        "VPNs",
+        "Mantraps",
+        "Firewalls",
+        "Antivirus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which encryption method uses two mathematically related keys?",
+      "options": [
+        "Symmetric",
+        "Asymmetric",
+        "Hashing",
+        "Salting"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the primary goal of ethical hacking?",
+      "options": [
+        "Disrupt systems",
+        "Find vulnerabilities before attackers",
+        "Bypass security controls",
+        "Steal sensitive data"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which security control prevents XSS attacks?",
+      "options": [
+        "Input validation",
+        "Network segmentation",
+        "Password policies",
+        "Firewalls"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SIEM (Security Information and Event Management) provide?",
+      "options": [
+        "Real-time security monitoring",
+        "Data backup solutions",
+        "Password management",
+        "Network segmentation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which technique helps prevent rainbow table attacks?",
+      "options": [
+        "Salting",
+        "Hashing",
+        "Encryption",
+        "Tokenization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the primary purpose of a bastion host?",
+      "options": [
+        "Secure network access point",
+        "Store sensitive data",
+        "Run antivirus scans",
+        "Monitor employee activity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which risk assessment method uses likelihood and impact?",
+      "options": [
+        "Quantitative analysis",
+        "Qualitative analysis",
+        "Vulnerability scanning",
+        "Penetration testing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What security concept involves diversity in controls?",
+      "options": [
+        "Defense in depth",
+        "Security through obscurity",
+        "Homogenous protection",
+        "Single point of failure"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which vulnerability affects CPU speculative execution?",
+      "options": [
+        "Heartbleed",
+        "Meltdown",
+        "Shellshock",
+        "EternalBlue"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does MAC (Mandatory Access Control) enforce?",
+      "options": [
+        "User-based permissions",
+        "System-wide security policies",
+        "Network segmentation",
+        "Data encryption"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which security principle ensures systems fail securely?",
+      "options": [
+        "Least privilege",
+        "Fail secure",
+        "Separation of duties",
+        "Defense in depth"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What technique hides network traffic?",
+      "options": [
+        "VPN tunneling",
+        "Data encryption",
+        "Steganography",
+        "All of the above"
+      ],
+      "answer": 3
     }
   ],
   "hard": [
     {
-      "question": "Which type of attack tricks users by creating a fake website?",
+      "question": "Which cryptographic algorithm is vulnerable to Shor's algorithm in quantum computing?",
       "options": [
+        "AES-256",
+        "RSA",
+        "SHA-256",
+        "Blowfish"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does Rowhammer attack exploit in DRAM chips?",
+      "options": [
+        "Memory addressing errors",
+        "Electrical interference between adjacent memory cells",
+        "CPU cache timing",
+        "Memory bus speed differentials"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which privilege escalation technique abuses Linux SUID binaries?",
+      "options": [
+        "Dirty COW",
+        "Heartbleed",
+        "Return-to-libc",
+        "Sticky bit overflow"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the primary purpose of a canary in stack protection?",
+      "options": [
+        "Detect buffer overflow attempts",
+        "Prevent SQL injection",
+        "Encrypt stack memory",
+        "Authenticate function calls"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which attack intercepts GSM communications using a fake base station?",
+      "options": [
+        "Bluejacking",
+        "IMSI catcher",
+        "SS7 exploit",
+        "Femtocell spoofing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What security architecture implements 'never trust, always verify' at all layers?",
+      "options": [
+        "Defense in depth",
+        "Zero Trust",
+        "CASTLE",
+        "CIA Triad"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which vulnerability allows CSP bypass via JSONP endpoints?",
+      "options": [
+        "XSS",
+        "CSRF",
+        "AngularJS sandbox escape",
+        "DNS rebinding"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What attack method exploits speculative execution in CPUs?",
+      "options": [
+        "Spectre",
+        "Heartbleed",
+        "Shellshock",
+        "Badlock"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which RADIUS vulnerability allows unauthorized access via status updates?",
+      "options": [
+        "PEAP hole",
+        "MS-CHAPv2 weakness",
+        "RADIUS/UDP flood",
+        "Framed-IP-Address hijack"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What technique bypasses ASLR using GOT/PLT overwrites?",
+      "options": [
+        "ROP chaining",
+        "Heap spraying",
+        "GOT overwrite",
+        "JIT spraying"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which Windows authentication protocol is vulnerable to pass-the-hash?",
+      "options": [
+        "Kerberos",
+        "NTLM",
+        "Negotiate",
+        "CredSSP"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does differential power analysis attack in cryptography?",
+      "options": [
+        "Power fluctuations during computation",
+        "CPU instruction timing",
+        "EM radiation patterns",
+        "Cache access timing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which Linux kernel vulnerability allowed overwriting read-only memory?",
+      "options": [
+        "Dirty Pipe",
+        "Dirty COW",
+        "Heartbleed",
+        "Shellshock"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What technique bypasses WAFs using Unicode normalization?",
+      "options": [
+        "Homograph attacks",
+        "SQL obfuscation",
+        "Request smuggling",
+        "Oversize payloads"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which cryptographic primitive provides post-quantum resistance?",
+      "options": [
+        "Elliptic Curve",
+        "Lattice-based",
+        "RSA",
+        "Diffie-Hellman"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What attack manipulates TCP/IP sequence numbers?",
+      "options": [
+        "SYN flooding",
+        "TCP hijacking",
+        "ARP poisoning",
+        "DNS spoofing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which vulnerability class affects PHP unserialization?",
+      "options": [
+        "XXE",
+        "Deserialization",
+        "SSRF",
+        "LDAP injection"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does CRIME attack exploit in HTTPS?",
+      "options": [
+        "Session cookies",
+        "Header compression",
+        "Certificate validation",
+        "Cipher suites"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which ICS protocol is vulnerable to replay attacks?",
+      "options": [
+        "Modbus",
+        "DNP3",
+        "IEC 61850",
+        "Profinet"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What technique bypasses DEP using ROP chains?",
+      "options": [
+        "Heap spraying",
+        "JIT compilation",
+        "Gadget chaining",
+        "Pointer inference"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which authentication factor type is 'somewhere you are'?",
+      "options": [
+        "Biometrics",
+        "Geofencing",
+        "Security questions",
+        "OTP tokens"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What vulnerability class does Log4Shell exploit?",
+      "options": [
+        "Buffer overflow",
+        "LDAP injection",
+        "JNDI lookup",
+        "XPath injection"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which cryptographic attack uses chosen ciphertexts?",
+      "options": [
+        "Meet-in-the-middle",
+        "Chosen plaintext",
+        "Adaptive chosen ciphertext",
+        "Frequency analysis"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What technique bypasses biometric authentication using photos?",
+      "options": [
+        "Reflection attack",
+        "Replay attack",
+        "Spoofing",
+        "Brute force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which PCI DSS requirement focuses on cryptographic key management?",
+      "options": [
+        "Req 3",
+        "Req 6",
+        "Req 8",
+        "Req 10"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does THM vulnerability in Bluetooth allow?",
+      "options": [
+        "Eavesdropping",
+        "Location tracking",
+        "Unauthorized pairing",
+        "Device impersonation"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which kernel protection prevents return-oriented programming?",
+      "options": [
+        "DEP",
+        "ASLR",
+        "KASLR",
+        "Shadow stacks"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What attack bypasses SGX enclave protection?",
+      "options": [
+        "Plundervolt",
+        "Spectre",
+        "Foreshadow",
+        "Meltdown"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which HTTP header prevents MIME sniffing attacks?",
+      "options": [
+        "X-Frame-Options",
+        "X-XSS-Protection",
+        "X-Content-Type-Options",
+        "Content-Security-Policy"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What technique steals AWS credentials via IMDSv1?",
+      "options": [
+        "SSRF",
+        "XSS",
+        "CSRF",
+        "XXE"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which vulnerability affects SIM cards via SMS?",
+      "options": [
+        "Simjacker",
+        "Textbomb",
+        "Smishing",
+        "Blueborne"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does BGP hijacking manipulate?",
+      "options": [
+        "DNS records",
+        "Routing tables",
+        "MAC addresses",
+        "TCP sequence numbers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which ICS protocol lacks authentication by design?",
+      "options": [
+        "OPC UA",
+        "Modbus",
+        "DNP3 Secure",
+        "IEC 62351"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What technique bypasses same-origin policy using WebSocket?",
+      "options": [
+        "DNS rebinding",
+        "CORs bypass",
+        "CSRF",
+        "SSRF"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which vulnerability allows privilege escalation via Linux kernel threads?",
+      "options": [
+        "Dirty Pipe",
+        "Dirty Cred",
+        "Dirty COW",
+        "Stack Clash"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does Stuxnet primarily target?",
+      "options": [
+        "Windows systems",
+        "SCADA systems",
+        "Banking networks",
+        "Mobile devices"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which cryptographic scheme provides forward secrecy?",
+      "options": [
+        "RSA",
+        "EC-DH",
+        "AES-GCM",
+        "SHA-3"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What attack defeats ASLR via memory disclosures?",
+      "options": [
+        "Heap feng shui",
+        "JIT spraying",
+        "Side-channel",
+        "Pointer inference"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which Windows component is vulnerable to PrintNightmare?",
+      "options": [
+        "LSASS",
+        "Spooler",
+        "WinRM",
+        "RDP"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What technique bypasses MFA via OAuth token theft?",
+      "options": [
+        "Adversary-in-the-middle",
         "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
+        "Session hijacking",
+        "Token replay"
       ],
       "answer": 0
     },
     {
-      "question": "Which encryption is stronger?",
+      "question": "Which standard defines hardware security modules?",
       "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
+        "FIPS 140-2",
+        "ISO 27001",
+        "PCI PTS",
+        "Common Criteria"
       ],
       "answer": 0
     },
     {
-      "question": "What does SQL Injection target?",
+      "question": "What does TPM measure during secure boot?",
       "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
+        "CPU temperature",
+        "Memory integrity",
+        "Firmware hashes",
+        "Network traffic"
       ],
-      "answer": 0
-    },
-    {
-      "question": "Which type of attack tricks users by creating a fake website?",
-      "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which encryption is stronger?",
-      "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What does SQL Injection target?",
-      "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which type of attack tricks users by creating a fake website?",
-      "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which encryption is stronger?",
-      "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What does SQL Injection target?",
-      "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which type of attack tricks users by creating a fake website?",
-      "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which encryption is stronger?",
-      "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What does SQL Injection target?",
-      "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which type of attack tricks users by creating a fake website?",
-      "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which encryption is stronger?",
-      "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What does SQL Injection target?",
-      "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which type of attack tricks users by creating a fake website?",
-      "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which encryption is stronger?",
-      "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What does SQL Injection target?",
-      "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which type of attack tricks users by creating a fake website?",
-      "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which encryption is stronger?",
-      "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What does SQL Injection target?",
-      "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which type of attack tricks users by creating a fake website?",
-      "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which encryption is stronger?",
-      "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What does SQL Injection target?",
-      "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which type of attack tricks users by creating a fake website?",
-      "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which encryption is stronger?",
-      "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What does SQL Injection target?",
-      "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which type of attack tricks users by creating a fake website?",
-      "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which encryption is stronger?",
-      "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What does SQL Injection target?",
-      "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which type of attack tricks users by creating a fake website?",
-      "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which encryption is stronger?",
-      "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What does SQL Injection target?",
-      "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which type of attack tricks users by creating a fake website?",
-      "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which encryption is stronger?",
-      "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What does SQL Injection target?",
-      "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which type of attack tricks users by creating a fake website?",
-      "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Which encryption is stronger?",
-      "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What does SQL Injection target?",
-      "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
-      ],
-      "answer": 0
+      "answer": 2
     },
     {
-      "question": "Which type of attack tricks users by creating a fake website?",
+      "question": "Which attack affects Intel SGX via speculative execution?",
       "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
+        "Foreshadow",
+        "Spectre",
+        "Meltdown",
+        "ZombieLoad"
       ],
       "answer": 0
     },
     {
-      "question": "Which encryption is stronger?",
+      "question": "What technique bypasses file upload filters using polyglots?",
       "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
+        "Magic byte injection",
+        "Content-type spoofing",
+        "Chunked encoding",
+        "File steganography"
       ],
       "answer": 0
     },
     {
-      "question": "What does SQL Injection target?",
+      "question": "Which vulnerability affects hash table collisions?",
       "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
+        "Heartbleed",
+        "HashDoS",
+        "Padding oracle",
+        "BEAST"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "Which type of attack tricks users by creating a fake website?",
+      "question": "What technique exfiltrates data via DNS queries?",
       "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
+        "DNS tunneling",
+        "ARP spoofing",
+        "ICMP covert channel",
+        "MAC flooding"
       ],
       "answer": 0
     },
     {
-      "question": "Which encryption is stronger?",
+      "question": "Which security control prevents DMA attacks?",
       "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
+        "VT-d",
+        "SMAP",
+        "SMEP",
+        "ASLR"
       ],
       "answer": 0
     },
     {
-      "question": "What does SQL Injection target?",
+      "question": "What does Rosetta Flash exploit in JSONP endpoints?",
       "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
+        "XSS",
+        "CSRF",
+        "SSRF",
+        "XXE"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "Which type of attack tricks users by creating a fake website?",
+      "question": "Which vulnerability allows Spring Framework RCE?",
       "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
+        "Spring4Shell",
+        "Log4Shell",
+        "Heartbleed",
+        "Shellshock"
       ],
       "answer": 0
     },
     {
-      "question": "Which encryption is stronger?",
+      "question": "What technique bypasses CSP using AngularJS sandbox?",
       "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
+        "String concatenation",
+        "Function rewriting",
+        "Prototype pollution",
+        "Scope injection"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "What does SQL Injection target?",
+      "question": "Which attack affects Intel CPUs via floating-point registers?",
       "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
+        "PortSmash",
+        "Foreshadow",
+        "Meltdown",
+        "Spectre"
       ],
       "answer": 0
     },
     {
-      "question": "Which type of attack tricks users by creating a fake website?",
+      "question": "What does VU#796611 affect in Intel processors?",
       "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
+        "Branch prediction",
+        "Memory management",
+        "Interrupt handling",
+        "Register renaming"
       ],
       "answer": 0
     },
     {
-      "question": "Which encryption is stronger?",
+      "question": "Which Windows protocol is vulnerable to NTLM relay?",
       "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
+        "SMB",
+        "RDP",
+        "HTTP",
+        "All of the above"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
-      "question": "What does SQL Injection target?",
+      "question": "What technique bypasses ASLR via JavaScript?",
       "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
+        "Heap spraying",
+        "ROP chaining",
+        "Pointer tagging",
+        "Memory grooming"
       ],
       "answer": 0
     },
     {
-      "question": "Which type of attack tricks users by creating a fake website?",
+      "question": "Which vulnerability allows DHCP server takeover?",
       "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
+        "DHCP rogue",
+        "DHCP snooping",
+        "DHCP starvation",
+        "DHCP spoofing"
       ],
       "answer": 0
     },
     {
-      "question": "Which encryption is stronger?",
+      "question": "What does ret2libc attack override on the stack?",
       "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
+        "Stack canary",
+        "Return address",
+        "Frame pointer",
+        "Local variables"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "What does SQL Injection target?",
+      "question": "Which ICS malware framework targets gas pipelines?",
       "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
+        "Triton",
+        "Industroyer",
+        "Stuxnet",
+        "Havex"
       ],
       "answer": 0
     },
     {
-      "question": "Which type of attack tricks users by creating a fake website?",
+      "question": "What technique bypasses WAFs using HTTP parameter pollution?",
       "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
+        "Header injection",
+        "Query string manipulation",
+        "Alternative encoding",
+        "Chunked transfer"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "Which encryption is stronger?",
+      "question": "Which vulnerability affects JWT signature validation?",
       "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
+        "Algorithm confusion",
+        "Key length",
+        "Timestamp",
+        "Header compression"
       ],
       "answer": 0
     },
     {
-      "question": "What does SQL Injection target?",
+      "question": "What does ACK storm occur during?",
       "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
+        "TCP sequence prediction",
+        "IP fragmentation",
+        "UDP flooding",
+        "ICMP redirection"
       ],
       "answer": 0
     },
     {
-      "question": "Which type of attack tricks users by creating a fake website?",
+      "question": "Which attack bypasses biometric authentication via latent fingerprints?",
       "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
+        "Replay",
+        "Spoofing",
+        "Brute force",
+        "Side-channel"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "Which encryption is stronger?",
+      "question": "What technique bypasses DEP using JIT compilation?",
       "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
+        "ROP",
+        "JIT spraying",
+        "Heap grooming",
+        "Pointer inference"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "What does SQL Injection target?",
+      "question": "Which Windows component is vulnerable to ZeroLogon?",
       "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
+        "LSASS",
+        "Netlogon",
+        "Kerberos",
+        "Active Directory"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "Which type of attack tricks users by creating a fake website?",
+      "question": "What does DROWN attack exploit in SSLv2?",
       "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
+        "Weak ciphers",
+        "Export-grade cryptography",
+        "Key reuse",
+        "Bleichenbacher oracle"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "Which encryption is stronger?",
+      "question": "Which vulnerability allows VM escape via hypervisor?",
       "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
+        "VENOM",
+        "Heartbleed",
+        "Meltdown",
+        "Spectre"
       ],
       "answer": 0
     },
     {
-      "question": "What does SQL Injection target?",
+      "question": "What technique bypasses authentication via SAML assertion?",
       "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
+        "XML Signature Wrapping",
+        "CRLF injection",
+        "Padding oracle",
+        "Timing attack"
       ],
       "answer": 0
     },
     {
-      "question": "Which type of attack tricks users by creating a fake website?",
+      "question": "Which cloud threat involves IAM privilege escalation?",
       "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
+        "Cryptojacking",
+        "Server-side request forgery",
+        "Role chaining",
+        "Container escape"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
-      "question": "Which encryption is stronger?",
+      "question": "What does SigSpoof attack abuse in email security?",
       "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
+        "DKIM",
+        "SPF",
+        "DMARC",
+        "All of the above"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
-      "question": "What does SQL Injection target?",
+      "question": "Which vulnerability allows Docker container escape?",
       "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
+        "runc CVE-2019-5736",
+        "Heartbleed",
+        "Shellshock",
+        "Dirty COW"
       ],
       "answer": 0
     },
     {
-      "question": "Which type of attack tricks users by creating a fake website?",
+      "question": "What technique bypasses certificate pinning?",
       "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
+        "Proxy stripping",
+        "MITM",
+        "Instrumentation",
+        "All of the above"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
-      "question": "Which encryption is stronger?",
+      "question": "Which vulnerability affects OAuth implementation via redirect_uri?",
       "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
+        "Open redirect",
+        "CSRF",
+        "Authorization code leakage",
+        "ID token replay"
       ],
       "answer": 0
     },
     {
-      "question": "What does SQL Injection target?",
+      "question": "What does 'blind' refer to in blind SQL injection?",
       "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
+        "No error messages",
+        "No direct output",
+        "Filtered characters",
+        "All queries are blocked"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "Which type of attack tricks users by creating a fake website?",
+      "question": "Which attack exploits branch prediction in CPUs?",
       "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
+        "Meltdown",
+        "Spectre",
+        "Foreshadow",
+        "PortSmash"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "question": "Which encryption is stronger?",
+      "question": "What technique bypasses CSRF tokens via DOM clobbering?",
       "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
+        "HTML injection",
+        "XSS",
+        "CSS injection",
+        "JSON hijacking"
       ],
       "answer": 0
     },
     {
-      "question": "What does SQL Injection target?",
+      "question": "Which vulnerability affects Kubernetes via etcd?",
       "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
+        "Privilege escalation",
+        "Remote code execution",
+        "Unauthorized access",
+        "All of the above"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
-      "question": "Which type of attack tricks users by creating a fake website?",
+      "question": "What does CVE-2021-3156 affect in sudo?",
       "options": [
-        "Phishing",
-        "DDoS",
-        "SQL Injection",
-        "Brute Force"
+        "Buffer overflow",
+        "Heap corruption",
+        "Race condition",
+        "Symlink resolution"
       ],
       "answer": 0
     },
     {
-      "question": "Which encryption is stronger?",
+      "question": "Which technique bypasses SOP using postMessage?",
       "options": [
-        "AES",
-        "ROT13",
-        "Caesar Cipher",
-        "None"
+        "Event listener hijacking",
+        "Origin validation bypass",
+        "Message spoofing",
+        "All of the above"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
-      "question": "What does SQL Injection target?",
+      "question": "What vulnerability affects Intel CPUs via TSX?",
       "options": [
-        "Databases",
-        "Emails",
-        "Images",
-        "WiFi"
+        "TAA",
+        "MDS",
+        "Fallout",
+        "RIDL"
       ],
       "answer": 0
     }
